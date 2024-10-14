@@ -1,0 +1,195 @@
+[
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses a positive sentiment towards Chennai, as the user has a deep connection with the city, having worked there for 7 years and having many great memories associated with it. The user mentions their 'first karma bhoomi', 'lovely adventure every day', 'great time staying in Chennai', and 'great memories' multiple times, indicating a positive experience and fondness for the city.",
+        "score": 9,
+        "keywords": [
+            "Chennai",
+            "first karma bhoomi",
+            "lovely adventure",
+            "great time",
+            "great memories"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses a lot of positive feelings and memories associated with North Chennai. Words like 'lively atmosphere', 'happiness', 'fun', 'joy', 'warmth', 'togetherness', and 'special' indicate a positive sentiment. The user cherishes their childhood memories, the passion for sports, and the unique culture of the place.",
+        "keywords": {
+            "places": [
+                "North Chennai"
+            ],
+            "foods": [
+                "Burma food",
+                "seafood",
+                "Kunhiraman juice shop"
+            ],
+            "emotions": [
+                "happiness",
+                "fun",
+                "joy",
+                "warmth",
+                "togetherness"
+            ]
+        }
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses a lot of positive emotions and memories associated with the city of Chennai (Madras). The user cherishes their time spent in the city, from their peaceful morning commutes to their favorite food spots in Mannadi, Sowcarpet, and North Madras. They also have fond memories of their college days, spending time at City Centre mall and playing cricket. The user also mentions their hobbies of photography and filmmaking, and their healthy habits of swimming and cycling. The post ends on a positive note, with the user's Chennai story still unfolding and nominating two other users to share their experiences.",
+        "keywords": [
+            "Chennai",
+            "Madras",
+            "Mannadi",
+            "Sowcarpet",
+            "North Madras",
+            "City Centre",
+            "cricket",
+            "photography",
+            "filmaking",
+            "swimming",
+            "cycling"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses positive sentiment towards Chennai (Madras) and the experiences shared by associates. The author uses words such as 'thank you', 'good story telling talent', 'real-feelings', 'encourage', 'AI Agent', 'recommendations', 'first-time visitor', 'contribute', 'EMOTION', and 'nominate' which all have positive connotations. The author also expresses excitement about the initiative and the positive experiences shared.",
+        "keywords": {
+            "places": [
+                "Chennai",
+                "Namma Chennai"
+            ],
+            "food": [
+                "not-to-miss"
+            ],
+            "emotions": [
+                "EMOTION"
+            ],
+            "people": [
+                "associates",
+                "[[user:1680213830]]",
+                "[[user:1446150766592]]"
+            ]
+        }
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses a positive sentiment towards the city of Chennai, using words such as 'unique blend', 'relentless energy', 'vibrant culture', 'warm-hearted people', 'familiar streets', 'smell of the sea', and 'home'. The user also expresses a positive sentiment towards the countryside and village life, using words such as 'greenery', 'mountains', 'tranquility', and 'fresh air'. The overall tone of the post is nostalgic and appreciative, with a score of 8 out of 10.",
+        "keywords": [
+            "Chennai",
+            "Madras",
+            "Vellore",
+            "greenery",
+            "mountains",
+            "tranquility",
+            "fresh air",
+            "home"
+        ],
+        "score": 8
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses a positive sentiment towards Chennai, with the author sharing their experiences and memories of the city in a fond and appreciative manner. Words like 'excitement', 'joy', 'inspiration', 'incredible', 'freedom', 'cherished memories', 'evolution', 'proudly', and 'true Chennaite' highlight the author's positive feelings towards Chennai.",
+        "keywords": {
+            "places": [
+                "Chennai",
+                "Mumbai",
+                "SRM University",
+                "OMR",
+                "ECR"
+            ],
+            "emotions": [
+                "joy",
+                "inspiration",
+                "freedom",
+                "pride"
+            ],
+            "actions": [
+                "exploring",
+                "cruising",
+                "navigating",
+                "landed my first job",
+                "immersing myself"
+            ]
+        }
+    },
+    {
+        "sentiment": "Positive",
+        "score": 9,
+        "justification": "The post expresses a lot of positive feelings and memories associated with Chennai. Words like 'vibrant culture', 'rich heritage', 'warmth of its people', 'bustling life', 'beautiful beaches', 'delicious food', 'amazing friends', 'supported me', 'at home', 'delightful experience', 'joy', 'success', 'unforgettable memories', 'indelible mark', 'cherish' indicate positive sentiment.",
+        "keywords": [
+            "Chennai",
+            "beautiful beaches",
+            "delicious food",
+            "amazing friends",
+            "success",
+            "unforgettable memories"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 9,
+        "justification": "The post expresses a lot of positive feelings and opinions about Chennai. Words like 'vibrant', 'dynamic energy', 'unique blend', 'welcoming spirit', 'endless opportunities', 'unbreakable spirit', and phrases like 'has once again become my home', 'offering both comfort and endless opportunities', 'where pride runs deep, friendships are treasured', and 'has shaped my journey in more ways than one' highlight the positive sentiment towards Chennai.",
+        "keywords": {
+            "places": [
+                "Madurai",
+                "Chennai"
+            ],
+            "foods": [
+                "dosas",
+                "idlis",
+                "filter coffee"
+            ],
+            "emotions": [
+                "positive feelings",
+                "pride",
+                "happiness"
+            ]
+        }
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses positive feelings and opinions about Chennai, mentioning it as a beautiful city with iconic landmarks, calming shores, and wonderful people. The user describes Chennai as their home, a place where they found their true self and built their academic foundation. The user also mentions the city's role in shaping who they are today and the positive impact of its community on their life.",
+        "score": 9,
+        "keywords": [
+            "Chennai",
+            "beautiful",
+            "iconic landmarks",
+            "calming shores",
+            "wonderful people",
+            "home",
+            "true self"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 9,
+        "justification": "The post expresses a lot of positive feelings and memories associated with Chennai. The user talks about cherished memories, excitement, fun, and joy in relation to various places and activities in Chennai such as Trade fairs at the Island Grounds, shopping in T.nagar, Spencer Plaza, Besant Nagar beach, Kishkinta, and Mayajal. The user also mentions a sense of nostalgia and gratitude. The overall tone of the post is positive and happy.",
+        "keywords": [
+            "Trade fairs",
+            "Island Grounds",
+            "T.nagar",
+            "Saravana Bhavan",
+            "Spencer Plaza",
+            "Landmark",
+            "Besant Nagar beach",
+            "Kishkinta",
+            "Mayajal"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses positive sentiment towards Chennai, highlighting its vibrant social activities, cultural experiences, grand festivals, arts scene, diverse food culture, and strong sense of community. The phrase '384 Not Out!' is a cricketing term often used to indicate an unbeaten score, suggesting a positive and successful experience in Chennai.",
+        "score": 9,
+        "keywords": [
+            "Chennai",
+            "festivals",
+            "arts scene",
+            "food culture",
+            "strong sense of community",
+            "384 Not Out!"
+        ]
+    }
+]

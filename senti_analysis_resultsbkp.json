@@ -1,0 +1,171 @@
+[
+    {
+        "sentiment": "Positive",
+        "justification": "The user has expressed a lot of positive feelings towards Chennai, mentioning it as 'very closed to my heart' and 'a great time staying in Chennai'. The user has also shared many pleasant memories associated with Chennai, such as trying South Indian food, visiting various places like Besant Nagar beach, Mahabalipuram, and Puducherry, and even their 'first bike- Samurai'. The tone of the post is nostalgic and appreciative, highlighting the positive aspects of their experience in Chennai.",
+        "score": 9,
+        "keywords": [
+            "closed to my heart",
+            "great time",
+            "pleasant memories",
+            "appreciative"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses positive feelings and opinions about Chennai. The user talks about their fondness for the city's mix of modern and traditional aspects, the weather, and the local food. However, the most positive sentiment is expressed towards the people of Chennai, who are described as warm, loving, helpful, dedicated, and professional. These words and phrases highlight the positive sentiment in the post: 'beautiful city', 'perfect mix of modern and traditional', 'did not get a chance to visit Chennai', 'loved the Burmese street food and binged on Banga 😊', 'warm, loving and helpful people', 'dedication and professionalism', 'passionate and take pride in what they do', 'The city truly is an Emotion!'.",
+        "score": 9,
+        "keywords": [
+            "beautiful city",
+            "perfect mix of modern and traditional",
+            "warm, loving and helpful people",
+            "dedication and professionalism",
+            "passionate",
+            "The city truly is an Emotion!"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses positive feelings and nostalgia towards North Chennai, mentioning happy memories, favorite traditions like kite flying and music, and the unique food culture. The author also expresses appreciation for the safety measures taken in banning kite flying.",
+        "score": 8,
+        "keywords": [
+            "happiness",
+            "joy",
+            "favorite part",
+            "warmth",
+            "togetherness",
+            "unique food culture"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses a lot of positive feelings and memories associated with the city of Chennai (Madras). The user cherishes their time spent in Chennai, from their peaceful morning journeys on the 21G bus to their favorite food spots in Mannadi, Sowcarpet, and North Madras. They also express their love for Thiruvotriyur Beach, Pullicat, Mahabalipuram, and ECR Road. Their hobbies, such as photography and watching movies, are also mentioned in a positive light. The user's spiritual journey and health maintenance activities in Chennai are also mentioned positively. The overall tone of the post is nostalgic and appreciative of the city.",
+        "keywords": [
+            "wonderful city",
+            "peaceful mornings",
+            "memorable experience",
+            "favorite food spots",
+            "beauty of nature",
+            "spiritual journey",
+            "health maintenance"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses positive sentiment towards Chennai (Madras) as the author appreciates its rich cultural history, modern aspects, and the storytelling talent of the associates. The author also expresses excitement about building an AI agent to give recommendations about Chennai. The use of positive adjectives such as 'good', 'fond', 'real-feelings', 'enthusiasts', and 'excited' contribute to the positive sentiment.",
+        "keywords": [
+            "Chennai",
+            "Madras",
+            "storytelling talent",
+            "AI Agent",
+            "recommendations"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses a positive sentiment towards the city of Chennai, using words such as 'fast-paced life', 'warm-hearted people', 'relentless energy', 'vibrant culture', 'home', 'familiar streets', 'smell of the sea', and 'warmth of its people'. The user also expresses a positive sentiment towards the contrast of Chennai and the countryside, specifically mentioning the 'greenery', 'mountains', and 'tranquility' of Vellore. The score for this sentiment is 9 out of 10.",
+        "score": 9,
+        "keywords": [
+            "fast-paced life",
+            "warm-hearted people",
+            "relentless energy",
+            "vibrant culture",
+            "home",
+            "greenery",
+            "mountains",
+            "tranquility"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 8,
+        "justification": "The post expresses a positive sentiment towards Chennai, with the author sharing their experiences and memories of the city in a fond and appreciative manner. Words like 'exciting', 'greatest joys', 'invaluable', 'inspired', 'incredible place', 'memorable', 'nostalgic', and 'cherished memories' highlight the author's positive feelings towards Chennai.",
+        "keywords": [
+            "exciting",
+            "greatest joys",
+            "invaluable",
+            "inspired",
+            "incredible place",
+            "memorable",
+            "nostalgic",
+            "cherished memories"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 9,
+        "justification": "The post expresses a lot of positive feelings towards Chennai, with the user mentioning how they grew to love the city's vibrant culture, rich heritage, and the warmth of its people. The user also talks about the many positive experiences they had in Chennai, such as exploring the city's beaches, temples, and shopping areas, and enjoying local food and movies. The user's tone is fond and appreciative throughout the post, highlighting the positive aspects of Chennai.",
+        "keywords": [
+            "love",
+            "vibrant culture",
+            "rich heritage",
+            "warmth of its people",
+            "positive experiences",
+            "beaches",
+            "temples",
+            "shopping areas",
+            "local food",
+            "movies"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 9,
+        "justification": "The post expresses a strong positive sentiment towards the city of Chennai. The user shares their personal journey, highlighting the city's dynamic energy, unique blend of tradition and innovation, welcoming spirit, and the warmth of its people. Specific phrases such as 'bustling hub of Sholinganallur', 'vibrant streets filled with the aroma of dosas, idlis, and filter coffee', 'ever-evolving skyline', 'enduring charm', and 'unbreakable spirit' contribute to the positive sentiment. The user also mentions their love for Chennai as a CSK fan, further emphasizing their positive feelings.",
+        "keywords": [
+            "bustling hub of Sholinganallur",
+            "vibrant streets filled with the aroma of dosas, idlis, and filter coffee",
+            "ever-evolving skyline",
+            "enduring charm",
+            "unbreakable spirit",
+            "love for Chennai as a CSK fan"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses a lot of positive feelings and views about Chennai. Words like 'wonderful', 'calming shores', 'warmth', 'resilience', 'generosity', 'mentors', 'friends', 'second family', 'nurtured', 'home', 'true self' highlight the positive sentiment towards the city. The user has shared their personal growth story, the impact of the city's landmarks, people, and culture on their life, and how it has shaped their personality. The score is 9 out of 10.",
+        "score": 9,
+        "keywords": [
+            "wonderful",
+            "calming shores",
+            "warmth",
+            "resilience",
+            "generosity",
+            "mentors",
+            "friends",
+            "second family",
+            "nurtured",
+            "home",
+            "true self"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "score": 9,
+        "justification": "The post expresses a lot of positive feelings and memories associated with Chennai. The user talks about cherished memories of visiting trade fairs, shopping for festivals, going to Spencer Plaza, and spending time at Besant Nagar beach. The user also mentions how Kishkinta and Mayajal were the ultimate entertainment spots and how the city has evolved over time. The post ends with the user expressing gratitude and a big smile while thinking about these memories. The sentiment is positive as the user has expressed a lot of positive emotions throughout the post.",
+        "keywords": [
+            "cherished memories",
+            "exciting",
+            "fond memory",
+            "fun",
+            "simple joy",
+            "mall culture",
+            "great moments",
+            "gratitude",
+            "big smile"
+        ]
+    },
+    {
+        "sentiment": "Positive",
+        "justification": "The post expresses positive sentiment towards Chennai, highlighting its vibrant culture, festivals, arts scene, food culture, sports community, and notable attractions. Words like 'vibrant', 'rich blend', 'grand festivals', 'elaborate processions', 'artistic performances', 'thrives', 'diverse food culture', 'lively social life', 'strong sense of community', 'cultural pride', 'notable attractions', and 'unique glimpses' contribute to the positive sentiment.",
+        "score": 9,
+        "keywords": [
+            "vibrant",
+            "festivals",
+            "arts scene",
+            "food culture",
+            "attractions"
+        ]
+    }
+]
